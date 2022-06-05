@@ -1,0 +1,11 @@
+.child{
+    color:white;
+}
+a {
+    text-decoration-line: none !important;
+}
+.hover1:hover .child {
+    background-color: white;
+    color:black;
+    
+}
